@@ -1,4 +1,7 @@
-# tec-LIFT
+# tec-Elevator
+
+aka the might Lift
+
 TEC-1 Elevator Controller
 
 https://gregoryalfordblog.wordpress.com/2017/05/30/pseudocoding-an-elevator/
