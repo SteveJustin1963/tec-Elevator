@@ -29,5 +29,5 @@ Has a few quirky requirements:
 
 ## code
 - lift1.c
-- lift1.f
+ 
 
